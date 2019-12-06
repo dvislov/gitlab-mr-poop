@@ -1,0 +1,6 @@
+{
+  "name": "Gitlab MR 💩",
+  "version": "0.1.0",
+  "description": "Extension for leaving comments to bad code at gitlab merge requests",
+  "manifest_version": 2
+}
